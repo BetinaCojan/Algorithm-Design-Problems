@@ -40,7 +40,7 @@ Complexitatea temporala este:
 
 Deci complexitatea finala ar trebuie si fie O(N * K)
 	
-	Linkuri folosite:
+Linkuri folosite:
 	https://www.geeksforgeeks.org/find-all-divisors-of-first-n-natural-numbers/
 	https://infoarena.ro/job_detail/608485?action=view-source
 
